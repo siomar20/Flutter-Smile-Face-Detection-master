@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173645091100",
+    "firebase_url": "https://durable-utility-221911.firebaseio.com",
+    "project_id": "durable-utility-221911",
+    "storage_bucket": "durable-utility-221911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173645091100:android:af3a1a27567967d491aad9",
+        "android_client_info": {
+          "package_name": "com.gianmarcodifrancesco.face_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173645091100-0th2311tkjht2dq8397icio7hpn19utu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACuLP4xF-dJOJjM1UH1oo2Wo9l0m_C7_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173645091100-0th2311tkjht2dq8397icio7hpn19utu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
